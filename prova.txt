@@ -1,2 +1,7 @@
 Ciao testo di prova
 blablabla2
+
+Aggiungo un testo piuttosto lungo per
+faer quap
+
+un'altra aggiuntina per un commit successivo
